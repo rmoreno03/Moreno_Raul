@@ -1,0 +1,3 @@
+Explicacion sobre el proyecto
+Se realiza una pagina web para un restaurante en la que hay una zona
+para ver los productos, otra para ver como realizar el pedido, otra para ver algunas noticias del restaurante, otra zona con un apartado de inicio de sesion para registrarse con un usuario.
